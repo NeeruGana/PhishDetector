@@ -43,7 +43,6 @@ dicttoxml==1.7.4
 dnspython
 docopt==0.6.2
 docutils==0.17.1
-duplicity==0.8.20
 ecdsa==0.16.1
 EditorConfig==0.12.3
 entrypoints==0.3

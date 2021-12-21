@@ -30,7 +30,6 @@ click==8.0.1
 click-plugins==1.1.1
 colorama==0.4.4
 colorclass==2.2.0
-command-not-found==0.3
 commix==3.3
 commonmark==0.9.1
 conda==4.3.16

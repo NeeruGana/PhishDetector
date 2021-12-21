@@ -60,7 +60,6 @@ html5lib==1.1
 httplib2==0.18.1
 idna==3.2
 importlib-metadata==4.8.1
-Interlace==1.9.5
 ipwhois==1.2.0
 ipykernel==6.0.3
 ipython==7.26.0

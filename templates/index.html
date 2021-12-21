@@ -1,0 +1,31 @@
+<!doctype html>
+
+<html>
+<center>
+<h1>PHISHING URL Finder </h1>
+<form action="/predict" method="POST">
+	<input type="text" name="url" placeholder='Enter the URL'><br>
+	<input type="text" name="ipinurl" placeholder='Ip Inside URL'><br>
+	<input type="text" name="splchar" placeholder='@ char'><br>
+	<input type="text" name="dots" placeholder='Num of Dots'><br>
+	<input type="text" name="urllength" placeholder='Url length'><br>
+	<input type="text" name="urldepth" placeholder='urldepth'><br>
+	<input type="text" name="tinyurl" placeholder='tinyurl'><br>
+	<input type="text" name="prefixSuffix" placeholder='dash'><br>
+	<input type="text" name="redir" placeholder='Forward slah'><br>
+	<input type="text" name="domainAge" placeholder='Domain Age'><br>
+	<input type="text" name="domainEnd" placeholder='Domain Expiry'><br>
+	<input type="text" name="dns" placeholder='DNS'><br>
+	<button class='btn btn-success'>Predict</button>
+</center>
+	{%if label == 0%}
+    <h1>Benign</h1>  
+    <script>alert("Benign URL")</script> 
+
+    {%elif label== 1%}
+    <h1>Phishing</h1>
+    <script>alert("Phishing")</script>
+        
+    {%endif%}
+</html>
+

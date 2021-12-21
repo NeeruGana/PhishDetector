@@ -36,6 +36,7 @@ cycler==0.10.0
 DateTime==4.3
 dnspython
 Flask==2.0.1
+gunicorn
 h8mail==2.5.5
 html5lib==1.1
 httplib2==0.18.1

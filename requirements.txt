@@ -123,7 +123,6 @@ pycares==4.0.0
 pycosat==0.6.3
 pycparser==2.20
 pycryptodomex==3.9.7
-pycups==2.0.1
 pydantic==1.8.2
 pyee==8.2.2
 pyfiglet==0.8.post1

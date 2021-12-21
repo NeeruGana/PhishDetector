@@ -189,7 +189,6 @@ webscreenshot==2.94
 websockets==9.1
 whois==0.9.13
 widgetsnbextension==3.5.2
-wifite==2.5.8
 wordcloud==1.8.1
 wxPython==4.0.7
 xdg==5

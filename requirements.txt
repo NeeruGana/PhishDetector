@@ -140,7 +140,6 @@ pyRFC3339==1.1
 pyrsistent==0.18.0
 PySocks==1.7.1
 python-dateutil==2.8.2
-python-debian===0.1.39ubuntu1
 python-docx==0.8.11
 python-gnupg==0.4.6
 python-magic==0.4.20

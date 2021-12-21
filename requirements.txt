@@ -33,7 +33,6 @@ colorclass==2.2.0
 commonmark==0.9.1
 conda==4.3.16
 cryptography==3.3.2
-cupshelpers==1.0
 cycler==0.10.0
 DateTime==4.3
 dbus-python==1.2.16
